@@ -13,10 +13,6 @@
 - **Learning now:** C, electrical engineering and cybersecurity.
 - **Going deeper:** C++, computer vision, robotics, CAD/CAM & G-code, and ML.
 
-### Building
-- **[Educte](https://educte.ai)**: live-voice AI tutor that draws on a whiteboard while it explains · `in testing`
-- **Robot Arm Research**: perception and grasping on a desk robot arm, documented milestone by milestone · `starting`
-
 ### Stack
 <img src="https://skillicons.dev/icons?i=cpp,java,py,html,postgres,git,opencv,pytorch,arduino,raspberrypi,supabase,vercel,cloudflare,figma&perline=14" alt="Stack" />
 
