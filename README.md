@@ -1,6 +1,6 @@
 <!-- ░░ Header ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1026,45:1E4FD8,100:FF7A2F&text=Ben%20Luzon&fontColor=ffffff&fontSize=70&fontAlignY=36&desc=Founder%20%C2%B7%20Builder%20%C2%B7%20Robotics%20%26%20AI&descSize=20&descAlignY=58&animation=fadeIn" alt="Ben Luzon" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1026,45:1E4FD8,100:FF7A2F&text=Ben%20Luzon&fontColor=ffffff&fontSize=70&fontAlignY=36&desc=Founder%20%C2%B7%20Builder%20%C2%B7%20Robotics%20%2B%20AI&descSize=20&descAlignY=58&animation=fadeIn" alt="Ben Luzon" />
 </p>
 
 <p align="center">
