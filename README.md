@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Co-Founder & CEO @ Educte</b> · Builder: AI agents, robotics, computer vision, ML<br/>
-  <a href="https://educte.ai">educte.ai</a> · <a href="https://www.linkedin.com/in/ben-luzon-728950374">LinkedIn</a> · Israel
+  <a href="https://educte.ai">educte.ai</a> · <a href="https://www.linkedin.com/in/benluzon">LinkedIn</a> · Israel
 </p>
 
 ---
